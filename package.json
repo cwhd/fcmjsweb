@@ -1,0 +1,16 @@
+{
+  "name": "fcm-js-web",
+  "version": "1.0.0",
+  "description": "web interface for working with FCM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cwhd",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.0.4",
+    "express": "^4.17.1",
+    "hbs": "^4.1.0"
+  }
+}
